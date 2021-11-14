@@ -6,4 +6,4 @@ Topic: Web program to search for different cocktails and sort through them, usin
        Features include the ability to search for all cocktails, showing the pictures of said coctails, sort by ingredients,
        alcoholic or non-alcoholic etc.
        
-Database link: https://www.thecocktaildb.com/api.php
+Database link: https://www.thecocktaildb.com
