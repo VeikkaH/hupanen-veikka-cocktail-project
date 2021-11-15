@@ -7,3 +7,12 @@ Topic: Web program to search for different cocktails and sort through them, usin
        alcoholic or non-alcoholic etc.
        
 Database link: https://www.thecocktaildb.com
+
+
+
+RELEASES:
+
+Release 1:
+- Added website information, basic logo and design
+- Search bar taking user input with button
+- Output user input
