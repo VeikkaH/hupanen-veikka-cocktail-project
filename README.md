@@ -2,9 +2,9 @@
 
 Name: Veikka Hupanen
 
-Topic: Web program to search for different cocktails and sort through them, using "The Cocktail DB".
-       Features include the ability to search for all cocktails, showing the pictures of said coctails, sort by ingredients,
-       alcoholic or non-alcoholic etc.
+Topic: Web program to search for different cocktails using "The Cocktail DB".
+       Features includes the ability to search for cocktails by name, showing the pictures of said coctails 
+       with details page for extra information.
        
 Database link: https://www.thecocktaildb.com
 
