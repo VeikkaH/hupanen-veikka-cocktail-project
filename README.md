@@ -30,4 +30,4 @@ Known Bugs:
 - Margins of cocktail cards sometimes slightly off
 
 Link to screencast:
-Coming
+[![Webb App Video](https://img.youtube.com/watch?v=Szdv8jYiTo8.jpg)](https://www.youtube.com/watch?v=Szdv8jYiTo8)
