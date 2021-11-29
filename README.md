@@ -30,4 +30,4 @@ Known Bugs:
 - Margins of cocktail cards sometimes slightly off
 
 Link to screencast:
-[![Web App Video](https://img.youtube.com/watch?v=Szdv8jYiTo8/0.jpg)](https://www.youtube.com/watch?v=Szdv8jYiTo8 "Cocktail Web App")
+[![Web App Video](https://img.youtube.com/vi/Szdv8jYiTo8/0.jpg)](https://www.youtube.com/watch?v=Szdv8jYiTo8 "Cocktail Web App")
