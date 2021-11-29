@@ -27,6 +27,7 @@ Release 2:
 Known Bugs: 
 - 'Enter' refreshes search instead of keeping it
 - Sometimes senseless input still shows drinks
+- Margins of cocktail cards sometimes slightly off
 
 Link to screencast:
 Coming
