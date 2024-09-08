@@ -1,4 +1,4 @@
-# 5G00EV06-3001-hupanen-veikka-project
+# hupanen-veikka-cocktail-project
 
 Name: Veikka Hupanen
 
@@ -28,10 +28,3 @@ Known Bugs:
 - 'Enter' refreshes search instead of keeping it
 - Sometimes senseless input still shows drinks
 - Margins of cocktail cards sometimes slightly off
-
-
-Link to screencast:
-
-
-
-[![Web App Video](https://img.youtube.com/vi/Szdv8jYiTo8/0.jpg)](https://www.youtube.com/watch?v=Szdv8jYiTo8 "Cocktail Web App")
